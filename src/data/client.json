@@ -1,0 +1,40 @@
+{
+  "lang": "fr",
+  "name": "Garage Rumine",
+  "initial": "R",
+  "trade": "garage",
+  "tradeLabel": "Garage toutes marques · Lausanne",
+  "theme": { "mode": "light", "accent": "#1f5fbf", "display": "serif", "hero": "type" },
+  "hero": {
+    "eyebrow": "Avenue de l'Avant-Poste 5, Lausanne",
+    "title": "Votre voiture mérite",
+    "titleEm": "un service soigné.",
+    "lead": "Chez nous, chaque intervention est réalisée avec soin, pour toutes les marques de véhicules."
+  },
+  "rating": { "score": "5,0", "count": 29, "source": "Google" },
+  "services": {
+    "title": "Nos services",
+    "items": [
+      { "title": "Réparations toutes marques", "text": "Des réparations pour toutes les marques de véhicules, avec efficacité et expertise." },
+      { "title": "Expertise", "text": "Devis d'expertise pour préparer le passage de votre véhicule." },
+      { "title": "Service climatisation", "text": "Entretien de la climatisation de votre véhicule." },
+      { "title": "Montage de pneus", "text": "Sur jantes tôle ou jantes aluminium." }
+    ]
+  },
+  "steps": {
+    "title": "Comment ça se passe",
+    "items": [
+      { "title": "Appelez ou écrivez", "text": "Décrivez-nous votre véhicule et votre besoin par téléphone ou par email." },
+      { "title": "Déposez votre véhicule", "text": "Au garage, aux heures d'ouverture." },
+      { "title": "Récupérez-le", "text": "Vous reprenez votre véhicule au garage, avenue de l'Avant-Poste 5." }
+    ]
+  },
+  "contact": {
+    "title": "Contactez le garage",
+    "lead": "Un renseignement, un rendez-vous : appelez-nous ou écrivez-nous.",
+    "phones": [ { "label": "Garage", "display": "021 323 31 92", "tel": "+41213233192" } ],
+    "email": "info@garagerumine.ch",
+    "address": ["Avenue de l'Avant-Poste 5", "1005 Lausanne"],
+    "hours": ["Lu–Je : 8h–12h / 13h30–18h", "Ve : 8h–12h / 13h30–17h", "Samedi et dimanche : fermé"]
+  }
+}
